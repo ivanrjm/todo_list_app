@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ivanrjm/todo_list_app.git/static/css/main.a7ee9d9e.chunk.css",
+    "main.js": "/ivanrjm/todo_list_app.git/static/js/main.a6e907e6.chunk.js",
+    "main.js.map": "/ivanrjm/todo_list_app.git/static/js/main.a6e907e6.chunk.js.map",
+    "runtime-main.js": "/ivanrjm/todo_list_app.git/static/js/runtime-main.80093223.js",
+    "runtime-main.js.map": "/ivanrjm/todo_list_app.git/static/js/runtime-main.80093223.js.map",
+    "static/js/2.386db7f0.chunk.js": "/ivanrjm/todo_list_app.git/static/js/2.386db7f0.chunk.js",
+    "static/js/2.386db7f0.chunk.js.map": "/ivanrjm/todo_list_app.git/static/js/2.386db7f0.chunk.js.map",
+    "index.html": "/ivanrjm/todo_list_app.git/index.html",
+    "static/css/main.a7ee9d9e.chunk.css.map": "/ivanrjm/todo_list_app.git/static/css/main.a7ee9d9e.chunk.css.map",
+    "static/js/2.386db7f0.chunk.js.LICENSE.txt": "/ivanrjm/todo_list_app.git/static/js/2.386db7f0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.80093223.js",
+    "static/js/2.386db7f0.chunk.js",
+    "static/css/main.a7ee9d9e.chunk.css",
+    "static/js/main.a6e907e6.chunk.js"
+  ]
+}
